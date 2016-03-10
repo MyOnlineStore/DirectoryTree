@@ -1,7 +1,6 @@
 .
 ├── build.php
-├── directoryTree.txt
-├── directoryTree.txt~
+├── readme.md
 └── src
     └── MyOnlineStore
         ├── Application
@@ -91,5 +90,3 @@
             │   └── Validators
             │       └── UrlValidator.php
             └── Tests
-
-45 directories, 47 files

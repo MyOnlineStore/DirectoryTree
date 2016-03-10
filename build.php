@@ -1,3 +1,3 @@
 <?php 
 
-passthru("tree . > directoryTree.txt");
+passthru("tree --noreport -o readme.md .");
